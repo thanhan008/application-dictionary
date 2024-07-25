@@ -1,0 +1,3 @@
+files:
+  - source: account/en.yml
+    translation: account/%two_letters_code%.yml
