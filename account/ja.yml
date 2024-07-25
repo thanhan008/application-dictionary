@@ -1,2 +1,6 @@
 node1:
   test: 検査
+node3:
+  test: ノード3でテスト
+node4:
+  test: ノード4でテスト
